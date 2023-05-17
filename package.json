@@ -1,7 +1,7 @@
 {
   "name": "gulp-2022",
   "version": "1.0.0",
-  "description": "Сборка Gulp-2022 от Жени Андриканича, автор канала 'Фрилансер по жизни'.",
+  "description": "Сборка Gulp",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
@@ -63,8 +63,5 @@
     "webp-converter": "2.2.3",
     "webpack": "^5.65.0",
     "webpack-stream": "^7.0.0"
-  },
-  "dependencies": {
-    "normalize.css": "^8.0.1"
   }
 }
